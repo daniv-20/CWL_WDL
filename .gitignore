@@ -127,6 +127,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+deb_venv/
+datasets/
 
 # Spyder project settings
 .spyderproject
